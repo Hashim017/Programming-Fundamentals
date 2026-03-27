@@ -54,7 +54,7 @@ Efficient matrix operations including multiplication, transposition, and determi
 ## Learning Outcomes
 ✓ Core C++ syntax and semantics ✓ Object-oriented design principles ✓ Data structures and algorithms ✓ System design patterns ✓ Game development fundamentals
 
-License: MIT
+## License: MIT
 
 ## Building & Running
 ```bash
