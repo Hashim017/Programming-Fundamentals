@@ -58,3 +58,8 @@ g++ -o program_name source_file.cpp
 
 # Run
 ./program_name
+
+Learning Outcomes
+✓ Core C++ syntax and semantics ✓ Object-oriented design principles ✓ Data structures and algorithms ✓ System design patterns ✓ Game development fundamentals
+
+License: MIT
