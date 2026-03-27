@@ -62,3 +62,6 @@ Achieve high scores
 ```bash
 g++ -o spelunker myGame_Spelunker.cpp
 ./spelunker
+
+
+---
