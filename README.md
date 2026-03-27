@@ -51,6 +51,11 @@ Efficient matrix operations including multiplication, transposition, and determi
 - Standard C++ library
 - Terminal/Console
 
+## Learning Outcomes
+✓ Core C++ syntax and semantics ✓ Object-oriented design principles ✓ Data structures and algorithms ✓ System design patterns ✓ Game development fundamentals
+
+License: MIT
+
 ## Building & Running
 ```bash
 # Compile
@@ -58,8 +63,3 @@ g++ -o program_name source_file.cpp
 
 # Run
 ./program_name
-
-Learning Outcomes
-✓ Core C++ syntax and semantics ✓ Object-oriented design principles ✓ Data structures and algorithms ✓ System design patterns ✓ Game development fundamentals
-
-License: MIT
